@@ -1,6 +1,8 @@
 # RSI Monitoring Bot
 
-This bot monitors the Relative Strength Index (RSI) for the top 100 trading pairs on Bybit. It sends Telegram alerts when the RSI approaches overbought or oversold levels. 
+The RSI Monitoring Bot is an automated trading application that monitors the Relative Strength Index (RSI) for all derivative trading pairs on Bybit. The bot sends Telegram alerts to notify the user when the RSI approaches the overbought or oversold levels. With this information, traders can make more informed decisions.
+
+Please note that this is not financial advice.
 ## Setup
 
 1. **Clone the repository:**
@@ -15,8 +17,8 @@ This bot monitors the Relative Strength Index (RSI) for the top 100 trading pair
 
 3. **Set up environment variables:**
     ```bash
-    export TELEGRAM_BOT_TOKEN=your_telegram_bot_token
-    export TELEGRAM_CHAT_ID=your_telegram_chat_id
+    TELEGRAM_BOT_TOKEN=your_telegram_bot_token
+    TELEGRAM_CHAT_ID=your_telegram_chat_id
     BYBIT_API_KEY=your bybit api-key
     BYBIT_API_SECRET=your bybit api secret
     ```
