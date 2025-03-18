@@ -1,0 +1,9 @@
+ccxt==4.2.85
+pandas==2.2.3
+pandas_ta==0.3.14b0
+python-telegram-bot==20.3
+python-dotenv==1.0.0
+nest_asyncio==1.6.0
+
+
+
