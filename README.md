@@ -32,6 +32,4 @@ Please note that this is not financial advice.
 
 - `/start`: Start the bot.
 - `/stop`: Stop the bot.
-
-
-"# RSI-Signal-Bot" 
+  
